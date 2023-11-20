@@ -9,4 +9,4 @@ Slides and resources from Progamming Language Speed Dating, a short pitch-and-tu
 - [AWK+Shell, C, x86 Assembly](https://www.blog.ljrk.org/2023-hoc-pl-speed-dating/)
 - [Rust](2023-11-19/rust.pdf)
 - [Haskell](2023-11-19/haskell.pdf)
-- Go
+- [Go](2023-11-19/Go.pdf)
